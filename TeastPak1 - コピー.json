@@ -1,0 +1,13 @@
+{
+    "DownloadZip": {
+      "FileUrl": null,
+      "DownloadFileName": null
+    },
+    "Files": [
+      {
+        "PakName": "pakchunk40-WindowsClient.o.ucas",
+        "SearchHex": "6E 43 69 74 79 2F 54 65 63 68 61 72 74 2F 4E 65",
+        "ReplaceHex": "45 45 45 45 45 45 19 19 36"
+      }
+    ]
+  }
