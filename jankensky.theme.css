@@ -1,0 +1,37 @@
+@import url('https://github.com/Landmark1218/Trash/raw/refs/heads/main/FrostedGlass.css');
+@import url('https://github.com/Landmark1218/Trash/raw/refs/heads/main/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://github.com/Landmark1218/Trash/blob/main/Beautiful-sunrise-sea-clouds_1920x1080.jpg?raw=true');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://github.com/Landmark1218/Trash/blob/main/Beautiful-sunrise-sea-clouds_1920x1080.jpg?raw=true');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.44;
+  --left-brightness: 0.44;
+  --middle-brightness: 0.44;
+  --right-brightness: 0.06;
+  --overlay-brightness: 0.62;
+  --gradient-primary: 22,149,250;
+  --gradient-secondary: 230,118,110;
+  --link-colour: #91C8F4;
+  --scrollbar-colour: rgb(5,14,17,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 47,196,222;
+  --tint-brightness: 0;
+  --font: TT-JTCじゃんけんUN_P;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
