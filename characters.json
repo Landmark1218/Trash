@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Fishini Bossini",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_1-150x150.webp"
+  },
+  {
+    "Name": "Lirili Larilla",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_2-150x150.webp"
+  },
+  {
+    "Name": "Tim Cheese",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_3-150x150.webp"
+  },
+  {
+    "Name": "Fluriflura",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_4-150x150.webp"
+  },
+  {
+    "Name": "Penguino Cocosino",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_1-150x150.webp"
+  },
+  {
+    "Name": "Test Rare",
+    "Rarity": "Rare",
+    "ImagePath": "Images/rare.png"
+  },
+  {
+    "Name": "Test Epic",
+    "Rarity": "Epic",
+    "ImagePath": "Images/epic.png"
+  },
+  {
+    "Name": "Test Legendary",
+    "Rarity": "Legendary",
+    "ImagePath": "Images/legendary.png"
+  },
+  {
+    "Name": "Test Mythic",
+    "Rarity": "Mythic",
+    "ImagePath": "Images/mythic.png"
+  },
+  {
+    "Name": "Test God",
+    "Rarity": "Brainrot God",
+    "ImagePath": "Images/god.png"
+  },
+  {
+    "Name": "Test Secret",
+    "Rarity": "Secret",
+    "ImagePath": "Images/secret.png"
+  },
+  {
+    "Name": "The Admin",
+    "Rarity": "Admin",
+    "ImagePath": "Images/admin.png"
+  }
+]
