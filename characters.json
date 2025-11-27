@@ -25,9 +25,59 @@
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_1-150x150.webp"
   },
   {
-    "Name": "Test Rare",
+    "Name": "Svinina Bombardino",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_5-150x150.webp"
+  },
+  {
+    "Name": "Pipi Kiwi",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_6-150x150.webp"
+  },
+  {
+    "Name": "Pipi Avocado",
+    "Rarity": "Common",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_4-150x150.webp"
+  },
+  {
+    "Name": "Trippi Troppi",
     "Rarity": "Rare",
-    "ImagePath": "Images/rare.png"
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_6-150x150.webp"
+  },
+  {
+    "Name": "Tung Sahur",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_7-150x150.webp"
+  },
+  {
+    "Name": "Grangster Footera",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_8-150x150.webp"
+  },
+  {
+    "Name": "Boneca Ambalabu",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_9-150x150.webp"
+  },
+  {
+    "Name": "Pipi Corni",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_3_5-150x150.webp"
+  },
+  {
+    "Name": "Ta Ta Ta Ta Sahur",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_2_1-150x150.webp"
+  },
+  {
+    "Name": "Burballoni Watermeloni",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_3_6-150x150.webp"
+  },
+  {
+    "Name": "Pipi Potato",
+    "Rarity": "Rare",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_7-150x150.webp"
   },
   {
     "Name": "Test Epic",
