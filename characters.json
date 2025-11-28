@@ -196,11 +196,18 @@
     "Difficult": false
   },
   {
-    "Name": "Test Legendary",
+    "Name": "Burbaloni Loliloli",
+    "Rarity": "Legendary",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_2_6-150x150.webp",
+    "SecondName": "Loli",
+    "Difficult": false
+  },
+  {
+    "Name": "Burbaloni Loliloli",
     "Rarity": "Legendary",
     "ImagePath": "Images/legendary.png",
-    "SecondName": "",
-    "Difficult": true
+    "SecondName": "Loli",
+    "Difficult": false
   },
   {
     "Name": "Test Mythic",
