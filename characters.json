@@ -38,8 +38,8 @@
     "Name": "Svinina Bombardino",
     "Rarity": "Common",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_5-150x150.webp",
-    "SecondName": "",
-    "Difficult": true
+    "SecondName": "Svini",
+    "Difficult": false
   },
   {
     "Name": "Pipi Kiwi",
