@@ -31,8 +31,8 @@
     "Name": "Penguino Cocosino",
     "Rarity": "Common",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_1-150x150.webp",
-    "SecondName": "",
-    "Difficult": true
+    "SecondName": "Peng",
+    "Difficult": false
   },
   {
     "Name": "Svinina Bombardino",
