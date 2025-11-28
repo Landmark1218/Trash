@@ -280,11 +280,18 @@
     "Difficult": false
   },
   {
-    "Name": "Test Mythic",
+    "Name": "Frigo Camelo",
     "Rarity": "Mythic",
-    "ImagePath": "Images/mythic.png",
-    "SecondName": "",
-    "Difficult": true
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_2-150x150.webp",
+    "SecondName": "Frigo",
+    "Difficult": false
+  },
+  {
+    "Name": "Orangutini Annassini",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_3-150x150.webp",
+    "SecondName": "Oran",
+    "Difficult": false
   },
   {
     "Name": "Test God",
