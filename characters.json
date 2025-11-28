@@ -294,6 +294,104 @@
     "Difficult": false
   },
   {
+    "Name": "Bombardiro Crocodilo",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_4-150x150.webp",
+    "SecondName": "Croco",
+    "Difficult": false
+  },
+  {
+    "Name": "Bombombini Gusini",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_5-150x150.webp",
+    "SecondName": "Gusini",
+    "Difficult": false
+  },
+  {
+    "Name": "Gorillo Watermellondrillo",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_1-150x150.webp",
+    "SecondName": "Gorillo",
+    "Difficult": false
+  },
+  {
+    "Name": "Sigma Boy",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_3-150x150.webp",
+    "SecondName": "Sigma",
+    "Difficult": false
+  },
+  {
+    "Name": "Matteo",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_2-150x150.webp",
+    "SecondName": "",
+    "Difficult": true
+  },
+  {
+    "Name": "Los Spijuniritos",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_3-150x150.webp",
+    "SecondName": "Spiju",
+    "Difficult": false
+  },
+  {
+    "Name": "Ganganzelli Trulala",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_9-150x150.webp",
+    "SecondName": "Gangan",
+    "Difficult": false
+  },
+  {
+    "Name": "Te Te Te Sahur",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_1-150x150.webp",
+    "SecondName": "Te Te Te",
+    "Difficult": false
+  },
+  {
+    "Name": "Strawberrelli Flamingelli",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_7-150x150.webp",
+    "SecondName": "Flaming",
+    "Difficult": false
+  },
+  {
+    "Name": "To To To Sahur",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_2-150x150.webp",
+    "SecondName": "To To To",
+    "Difficult": false
+  },
+  {
+    "Name": "Antoniooo",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_2_7-150x150.webp",
+    "SecondName": "Anton",
+    "Difficult": false
+  },
+  {
+    "Name": "Girafa Celeste",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_6-150x150.webp",
+    "SecondName": "Celes",
+    "Difficult": false
+  },
+  {
+    "Name": "Tang Tang Kelentang",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_7-150x150.webp",
+    "SecondName": "Kelen",
+    "Difficult": false
+  },
+  {
+    "Name": "Tirilikalika Tirilikaliko",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_5-150x150.webp",
+    "SecondName": "kali",
+    "Difficult": false
+  },
+  {
     "Name": "Test God",
     "Rarity": "Brainrot God",
     "ImagePath": "Images/god.png",
