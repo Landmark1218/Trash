@@ -224,10 +224,10 @@
     "Difficult": true
   },
   {
-    "Name": "The Admin",
+    "Name": "Ferinsini Luckini",
     "Rarity": "Admin",
-    "ImagePath": "Images/admin.png",
-    "SecondName": "",
-    "Difficult": true
+    "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2025-11-28_195443-removebg-preview.png?raw=true",
+    "SecondName": "Luckini",
+    "Difficult": false
   }
 ]
