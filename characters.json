@@ -301,11 +301,74 @@
     "Difficult": true
   },
   {
-    "Name": "Test Secret",
+    "Name": "Los Tralaleritos",
     "Rarity": "Secret",
-    "ImagePath": "Images/secret.png",
-    "SecondName": "",
-    "Difficult": true
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_5-150x150.webp",
+    "SecondName": "Tralaleritos",
+    "Difficult": false
+  },
+  {
+    "Name": "Los Tralaleritas",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_5-150x150.webp",
+    "SecondName": "Tralaleritas",
+    "Difficult": false
+  },
+  {
+    "Name": "Trenostruzzo Turbo",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_5-150x150.webp",
+    "SecondName": "Turbo",
+    "Difficult": false
+  },
+  {
+    "Name": "Kravilino Cekicino",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_5_1-150x150.webp",
+    "SecondName": "Cek",
+    "Difficult": false
+  },
+  {
+    "Name": "Los Orcaleritos",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_6-150x150.webp",
+    "SecondName": "Orcaleri",
+    "Difficult": false
+  },
+  {
+    "Name": "Los Couples",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_2_4-150x150.webp",
+    "SecondName": "Coup",
+    "Difficult": false
+  },
+  {
+    "Name": "Piccione Macchina",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_4-150x150.webp",
+    "SecondName": "Macc",
+    "Difficult": false
+  },
+  {
+    "Name": "Pakrahmatmamat",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_9-150x150.webp",
+    "SecondName": "Pak",
+    "Difficult": false
+  },
+  {
+    "Name": "Los Job Jobsitos",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_7-150x150.webp",
+    "SecondName": "Jobs",
+    "Difficult": false
+  },
+  {
+    "Name": "Anpali Babel",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_3_9-150x150.webp",
+    "SecondName": "Babe",
+    "Difficult": false
   },
   {
     "Name": "Ferinsini Luckini",
