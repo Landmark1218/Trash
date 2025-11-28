@@ -371,6 +371,83 @@
     "Difficult": false
   },
   {
+    "Name": "Orcalero Orcala",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_6-150x150.webp",
+    "SecondName": "Orcala",
+    "Difficult": false
+  },
+  {
+    "Name": "Frogino Assassino",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_4_5-150x150.webp",
+    "SecondName": "Frog",
+    "Difficult": false
+  },
+  {
+    "Name": "Ketchuru and Musturu",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_8-150x150.webp",
+    "SecondName": "Musturu",
+    "Difficult": false
+  },
+  {
+    "Name": "Pot Hotspot",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_5-150x150.webp",
+    "SecondName": "Pot Hot",
+    "Difficult": false
+  },
+  {
+    "Name": "21",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_5_5-150x150.webp",
+    "SecondName": "",
+    "Difficult": true
+  },
+  {
+    "Name": "Los Mobilis",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_2_5-150x150.webp",
+    "SecondName": "Mob",
+    "Difficult": false
+  },
+  {
+    "Name": "Nooo My Hotspot",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_9-150x150.webp",
+    "SecondName": "Nooo",
+    "Difficult": false
+  },
+  {
+    "Name": "Garamaramadungdung",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_1-150x150.webp",
+    "SecondName": "dungdung",
+    "Difficult": false
+  },
+  {
+    "Name": "Chicleteirina Bicicleteirina",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_2_9-150x150.webp",
+    "SecondName": "Chicleteiri",
+    "Difficult": false
+  },
+  {
+    "Name": "La Grande Combinacion",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_2-150x150.webp",
+    "SecondName": "Grand",
+    "Difficult": false
+  },
+  {
+    "Name": "Los Esok Sekolitos",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_4_7-150x150.webp",
+    "SecondName": "Los Esok",
+    "Difficult": false
+  },
+  {
     "Name": "Ferinsini Luckini",
     "Rarity": "Admin",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2025-11-28_195443-removebg-preview.png?raw=true",
