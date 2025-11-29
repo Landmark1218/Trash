@@ -171,7 +171,7 @@
     "Name": "Blueberrinni Octopussini",
     "Rarity": "Epic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_1-150x150.webp",
-    "SecondName": "puss",
+    "SecondName": "Octopus",
     "Difficult": false
   },
   {
@@ -410,6 +410,7 @@
     "Rarity": "Brainrot God",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_7-150x150.webp",
     "SecondName": "ro Tra",
+    "Audio": "Audio URL",
     "Difficult": false
   },
   {
