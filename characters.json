@@ -17,8 +17,8 @@
     "Name": "Tim Cheese",
     "Rarity": "Common",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_1_3-150x150.webp",
-    "SecondName": "",
-    "Difficult": true
+    "SecondName": "Cheese",
+    "Difficult": false
   },
   {
     "Name": "Fluriflura",
@@ -150,7 +150,7 @@
     "Name": "Salamino Pinguino",
     "Rarity": "Epic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_5-150x150.webp",
-    "SecondName": "Salami",
+    "SecondName": "Salamino",
     "Difficult": false
   },
   {
@@ -199,7 +199,7 @@
     "Name": "Burbaloni Loliloli",
     "Rarity": "Legendary",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_2_6-150x150.webp",
-    "SecondName": "Loli",
+    "SecondName": "baloni",
     "Difficult": false
   },
   {
@@ -388,7 +388,7 @@
     "Name": "Tirilikalika Tirilikaliko",
     "Rarity": "Mythic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_5-150x150.webp",
-    "SecondName": "kali",
+    "SecondName": "kalika",
     "Difficult": false
   },
   {
