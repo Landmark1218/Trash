@@ -778,7 +778,8 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_9-150x150.webp",
     "SecondName": "Spid",
-    "Difficult": false
+    "Difficult": false,
+    "Onnx": false
   },
   {
     "Name": "Cannelloni Dragoni",
