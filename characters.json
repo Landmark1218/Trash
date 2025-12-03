@@ -108,8 +108,8 @@
     "Name": "Pipi Potato",
     "Rarity": "Rare",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_7-150x150.webp",
-    "SecondName": "",
-    "Difficult": true
+    "SecondName": "Potato",
+    "Difficult": false
   },
   {
     "Name": "Cappuccino Assassino",
@@ -704,7 +704,7 @@
     "Name": "Garamaramadungdung",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_1-150x150.webp",
-    "SecondName": "Garamar",
+    "SecondName": "dungdung",
     "Difficult": false
   },
   {
