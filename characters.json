@@ -385,6 +385,13 @@
     "Difficult": false
   },
   {
+    "Name": "Patapimus Maximus",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_7_8.webp",
+    "SecondName": "Maxim",
+    "Difficult": false
+  },
+  {
     "Name": "Tirilikalika Tirilikaliko",
     "Rarity": "Mythic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_5-150x150.webp",
@@ -484,13 +491,6 @@
     "Difficult": false
   },
   {
-    "Name": "Brr Es Teh Patipum",
-    "Rarity": "Brainrot God",
-    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_8-150x150.webp",
-    "SecondName": "Brr Es",
-    "Difficult": false
-  },
-  {
     "Name": "Torrtuginni Dragonfrutinni",
     "Rarity": "Brainrot God",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_4-150x150.webp",
@@ -516,6 +516,13 @@
     "Rarity": "Brainrot God",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_4-150x150.webp",
     "SecondName": "Los Cro",
+    "Difficult": false
+  },
+  {
+    "Name": "Jiqi Jiqi Shizhon",
+    "Rarity": "Brainrot God",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_7_9.webp",
+    "SecondName": "Shizhon",
     "Difficult": false
   },
   {
@@ -624,10 +631,17 @@
     "Difficult": false
   },
   {
+    "Name": "Pakrahmatmamatcita",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_8_1.webp",
+    "SecondName": "tcita",
+    "Difficult": false
+  },
+  {
     "Name": "Pakrahmatmamat",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_9-150x150.webp",
-    "SecondName": "Pakra",
+    "SecondName": "mamat",
     "Difficult": false
   },
   {
@@ -642,6 +656,13 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_3_9-150x150.webp",
     "SecondName": "Babe",
+    "Difficult": false
+  },
+  {
+    "Name": "Pitiata Baem",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_8_2.webp",
+    "SecondName": "Baem",
     "Difficult": false
   },
   {
@@ -663,6 +684,13 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_8-150x150.webp",
     "SecondName": "Musturu",
+    "Difficult": false
+  },
+  {
+    "Name": "Il Sacro Cabrospaghetti",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_8-150x150.webp",
+    "SecondName": "Sacro",
     "Difficult": false
   },
   {
