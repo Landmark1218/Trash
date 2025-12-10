@@ -715,6 +715,20 @@
     "Difficult": false
   },
   {
+    "Name": "67",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_3-150x150.webp",
+    "SecondName": "",
+    "Difficult": true
+  },
+  {
+    "Name": "21",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_5_5-150x150.webp",
+    "SecondName": "",
+    "Difficult": true
+  },
+  {
     "Name": "Pot Hotspot",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_7_5-150x150.webp",
