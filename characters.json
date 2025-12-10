@@ -761,16 +761,14 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_1-150x150.webp",
     "SecondName": "Chicleteira",
-    "Difficult": false,
-    "Onnx": false
+    "Difficult": false
   },
   {
     "Name": "Ketupat Kepat Prekupat",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_9-150x150.webp",
     "SecondName": "Ketu",
-    "Difficult": false,
-    "Onnx": true
+    "Difficult": false
   },
   {
     "Name": "Los Garamadungcitos",
@@ -806,8 +804,7 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_9-150x150.webp",
     "SecondName": "Spid",
-    "Difficult": false,
-    "Onnx": false
+    "Difficult": false
   },
   {
     "Name": "Cannelloni Dragoni",
