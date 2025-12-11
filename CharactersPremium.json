@@ -368,7 +368,7 @@
     "Rarity": "Mythic",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/42.png?raw=true",
     "SecondName": "5m",
-    "Additional": "Lucky Rot",
+    "Special": false,
     "Difficult": false
   },
   {
@@ -573,7 +573,7 @@
     "Rarity": "Brainrot God",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/42.png?raw=true",
     "SecondName": "15m",
-    "Additional": "Lucky Rot",
+    "Special": false,
     "Difficult": false
   },
   {
@@ -840,8 +840,8 @@
     "Name": "Lucky Rot",
     "Rarity": "Secret",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/42.png?raw=true",
-    "SecondName": "85M",
-    "Additional": "Lucky Rot",
+    "SecondName": "30m",
+    "Additional": false,
     "Difficult": false
   },
   {
