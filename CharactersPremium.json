@@ -838,14 +838,14 @@
     "Name": "Lucky Rot",
     "Rarity": "Secret",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/42.png?raw=true",
-    "SecondName": "30m",
+    "SecondName": "85M",
     "Difficult": false
   },
   {
     "Name": "Cannelloni Dragoni",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_4-150x150.webp",
-    "SecondName": "Canne",
+    "SecondName": "Cann",
     "Difficult": false,
     "Audio": "https://brainrot.fnjpnews.com/wp-content/uploads/2025/10/Cannelloni_Dragoni.wav"
   },
