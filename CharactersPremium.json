@@ -675,6 +675,20 @@
     "Difficult": false
   },
   {
+    "Name": "Los Karkeritos",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_8_5.webp",
+    "SecondName": "Karkeritos",
+    "Difficult": false
+  },
+  {
+    "Name": "Dul Dul Dul",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_1_5-150x150.webp",
+    "SecondName": "Dul Dul",
+    "Difficult": false
+  },
+  {
     "Name": "Anpali Babel",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_3_9-150x150.webp",
