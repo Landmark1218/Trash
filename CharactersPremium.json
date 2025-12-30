@@ -150,7 +150,8 @@
     "Name": "Salamino Pinguino",
     "Rarity": "Epic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_8_5-150x150.webp",
-    "SecondName": "Salamino",
+    "SecondName": "Salami",
+    "Special": false,
     "Difficult": false
   },
   {
@@ -735,6 +736,7 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_3-150x150.webp",
     "SecondName": "6.7B",
+    "Special": false,
     "Difficult": false
   },
   {
@@ -742,6 +744,7 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_5_5-150x150.webp",
     "SecondName": "2.1B",
+    "Special": false,
     "Difficult": false
   },
   {
