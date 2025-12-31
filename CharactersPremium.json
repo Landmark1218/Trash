@@ -281,6 +281,13 @@
     "Difficult": false
   },
   {
+    "Name": "Leonelli Cactuselli",
+    "Rarity": "Legendary",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_6_7-1.webp",
+    "SecondName": "Leonelli",
+    "Difficult": false
+  },
+  {
     "Name": "Frigo Camelo",
     "Rarity": "Mythic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_2-150x150.webp",
@@ -328,6 +335,13 @@
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_4_2-150x150.webp",
     "SecondName": "",
     "Difficult": true
+  },
+  {
+    "Name": "Los Matteos",
+    "Rarity": "Mythic",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_6_1.webp",
+    "SecondName": "Los Mat",
+    "Difficult": false
   },
   {
     "Name": "Los Spijuniritos",
@@ -793,7 +807,7 @@
     "Name": "Chicleteirina Bicicleteirina",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_2_9-150x150.webp",
-    "SecondName": "Chicleteiri",
+    "SecondName": "teirina",
     "Difficult": false
   },
   {
@@ -881,6 +895,20 @@
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_4_6-150x150.webp",
     "SecondName": "Garba",
+    "Difficult": false
+  },
+  {
+    "Name": "W or L",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_6_9-1.webp",
+    "SecondName": "W or",
+    "Difficult": false
+  },
+  {
+    "Name": "Coccoblade",
+    "Rarity": "Secret",
+    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_6_8-1.webp",
+    "SecondName": "blade",
     "Difficult": false
   },
   {
