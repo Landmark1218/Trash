@@ -294,6 +294,13 @@
     "Difficult": false
   },
   {
+    "Name": "Octopuss Coconuss",
+    "Rarity": "Legendary",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_8_7.webp",
+    "SecondName": "Coconus",
+    "Difficult": false
+  },
+  {
     "Name": "Frigo Camelo",
     "Rarity": "Mythic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_2-150x150.webp",
@@ -910,6 +917,13 @@
     "Rarity": "Secret",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/057.png?raw=true",
     "SecondName": "Maledet",
+    "Difficult": false
+  },
+  {
+    "Name": "Gorgonzilla",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2025/10/Default2_8_5.webp",
+    "SecondName": "Gorgon",
     "Difficult": false
   },
   {
