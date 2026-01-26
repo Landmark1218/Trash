@@ -204,6 +204,13 @@
     "Difficult": false
   },
   {
+    "Name": "Penguini Zucchini",
+    "Rarity": "Epic",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_8_6.webp",
+    "SecondName": "Zucchini",
+    "Difficult": false
+  },
+  {
     "Name": "Burbaloni Loliloli",
     "Rarity": "Legendary",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_2_6-150x150.webp",
@@ -638,6 +645,13 @@
     "Rarity": "Brainrot God",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/056.png?raw=true",
     "SecondName": "Nuclear",
+    "Difficult": false
+  },
+  {
+    "Name": "Akulini Cactusini",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_9_1.webp",
+    "SecondName": "Akulini",
     "Difficult": false
   },
   {
