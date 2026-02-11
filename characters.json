@@ -969,6 +969,20 @@
     "Difficult": false
   },
   {
+    "Name": "Chocone Dragone",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Halloween2_7_5.webp",
+    "SecondName": "Chocone",
+    "Difficult": false
+  },
+  {
+    "Name": "Aquanaut",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_8_9.webp",
+    "SecondName": "Aquanaut",
+    "Difficult": false
+  },
+  {
     "Name": "Ferinsini Luckini",
     "Rarity": "Admin",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/24.png?raw=true",
