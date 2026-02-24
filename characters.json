@@ -441,6 +441,20 @@
     "Difficult": false
   },
   {
+    "Name": "Elefante Cafettino",
+    "Rarity": "Mythic",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default2_9_7.webp",
+    "SecondName": "Cafettino",
+    "Difficult": false
+  },
+  {
+    "Name": "Fireworkito Explodito",
+    "Rarity": "Mythic",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_3.webp",
+    "SecondName": "Fireworkito",
+    "Difficult": false
+  },
+  {
     "Name": "Cocofanto Elefanto",
     "Rarity": "Brainrot God",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_6-150x150.webp",
@@ -635,6 +649,13 @@
     "Rarity": "Brainrot God",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_9_1.webp",
     "SecondName": "Akulini",
+    "Difficult": false
+  },
+  {
+    "Name": "La Matcha Assassino",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_9_2.webp",
+    "SecondName": "Matcha",
     "Difficult": false
   },
   {
@@ -980,6 +1001,20 @@
     "Rarity": "Secret",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_8_9.webp",
     "SecondName": "Aquanaut",
+    "Difficult": false
+  },
+  {
+    "Name": "Jisaoba Dashi",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_6.webp",
+    "SecondName": "Jisaoba",
+    "Difficult": false
+  },
+  {
+    "Name": "Bau Wang Wolf Monarca",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_5.webp",
+    "SecondName": "Monarca",
     "Difficult": false
   },
   {
