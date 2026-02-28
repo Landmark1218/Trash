@@ -1059,6 +1059,13 @@
     "Difficult": false
   },
   {
+    "Name": "Love Rot",
+    "Rarity": "Secret",
+    "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/Love%20Rot.png?raw=true",
+    "SecondName": "Love Rot",
+    "Difficult": false
+  },
+  {
     "Name": "Ferinsini Luckini",
     "Rarity": "Admin",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/24.png?raw=true",
