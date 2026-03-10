@@ -309,6 +309,27 @@
     "Difficult": false
   },
   {
+    "Name": "Dragonini Ananasini",
+    "Rarity": "Legendary",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_2.webp",
+    "SecondName": "Ananasini",
+    "Difficult": false
+  },
+  {
+    "Name": "Avocadini Antilopini",
+    "Rarity": "Legendary",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_1_9.webp",
+    "SecondName": "Antilopini",
+    "Difficult": false
+  },
+  {
+    "Name": "Elefantucci Bananucci",
+    "Rarity": "Legendary",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_4_9.webp",
+    "SecondName": "Elefantucc",
+    "Difficult": false
+  },
+  {
     "Name": "Frigo Camelo",
     "Rarity": "Mythic",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_3_2-150x150.webp",
@@ -461,6 +482,13 @@
     "Rarity": "Mythic",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_3.webp",
     "SecondName": "Fireworkito",
+    "Difficult": false
+  },
+  {
+    "Name": "Kudanile Astronaute",
+    "Rarity": "Mythic",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_2_1.webp",
+    "SecondName": "Kudanile",
     "Difficult": false
   },
   {
@@ -673,6 +701,20 @@
     "Rarity": "Brainrot God",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_9_2.webp",
     "SecondName": "Matcha",
+    "Difficult": false
+  },
+  {
+    "Name": "Il Costruttore Di Pomodori",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default3_1_7.webp",
+    "SecondName": "Pomodori",
+    "Difficult": false
+  },
+  {
+    "Name": "Bim Bim Bim Sadim",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/02/Default2_9_8.webp",
+    "SecondName": "Bim Bim",
     "Difficult": false
   },
   {
@@ -1063,6 +1105,41 @@
     "Rarity": "Secret",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/Love%20Rot.png?raw=true",
     "SecondName": "Love Rot",
+    "Difficult": false
+  },
+  {
+    "Name": "Alligarto Alligarto",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_2.webp",
+    "SecondName": "Alligarto",
+    "Difficult": false
+  },
+  {
+    "Name": "Vulturino Skeletono",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_2_2.webp",
+    "SecondName": "skeletono",
+    "Difficult": false
+  },
+  {
+    "Name": "Rang Reng Kelerang",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_2_3.webp",
+    "SecondName": "Kelerang",
+    "Difficult": false
+  },
+  {
+    "Name": "Chachechi Sahur",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_2_4.webp",
+    "SecondName": "Chachechi",
+    "Difficult": false
+  },
+  {
+    "Name": "Frogatto Piratto",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_1.webp",
+    "SecondName": "Piratto",
     "Difficult": false
   },
   {
