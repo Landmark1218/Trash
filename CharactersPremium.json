@@ -718,17 +718,31 @@
     "Difficult": false
   },
   {
+    "Name": "Linguicine Serpentine",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_3.webp",
+    "SecondName": "Serpentine",
+    "Difficult": false
+  },
+  {
+    "Name": "Dig Torto Dolf",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_4.webp",
+    "SecondName": "Dig Torto",
+    "Difficult": false
+  },
+  {
+    "Name": "Eaglucci Cocosucci",
+    "Rarity": "Brainrot God",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_6_4.webp",
+    "SecondName": "Eaglucci",
+    "Difficult": false
+  },
+  {
     "Name": "Los Tralaleritos",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_5_5-150x150.webp",
     "SecondName": "Tralaleritos",
-    "Difficult": false
-  },
-  {
-    "Name": "Los Tralaleritas",
-    "Rarity": "Secret",
-    "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_6_5-150x150.webp",
-    "SecondName": "Tralaleritas",
     "Difficult": false
   },
   {
@@ -1140,6 +1154,55 @@
     "Rarity": "Secret",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_1.webp",
     "SecondName": "Piratto",
+    "Difficult": false
+  },
+  {
+    "Name": "Chilyeie y Avocadoa",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_6_5.webp",
+    "SecondName": "Chilyeie",
+    "Difficult": false
+  },
+  {
+    "Name": "Tung Ballerina Sahur",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Halloween2_8_6.webp",
+    "SecondName": "Tung Bal",
+    "Difficult": false
+  },
+  {
+    "Name": "McPene Dougal",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_5.webp",
+    "SecondName": "Kataking",
+    "Difficult": false
+  },
+  {
+    "Name": "Krr Krr Kataking",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_6.webp",
+    "SecondName": "McPene",
+    "Difficult": false
+  },
+  {
+    "Name": "Coccobladina",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_9.webp",
+    "SecondName": "bladina",
+    "Difficult": false
+  },
+  {
+    "Name": "Chop Chop Chop Sahur",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_6_2.webp",
+    "SecondName": "Chop Sahur",
+    "Difficult": false
+  },
+  {
+    "Name": "Dilly Pickle",
+    "Rarity": "Secret",
+    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_7.webp",
+    "SecondName": "Dilly",
     "Difficult": false
   },
   {
