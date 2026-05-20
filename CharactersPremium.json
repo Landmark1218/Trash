@@ -988,9 +988,23 @@
   },
   {
     "Name": "Gigalitraktos Spidorobos",
-    "Rarity": "Secret",
+    "Rarity": "Eternal",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default_9_9-150x150.webp",
     "SecondName": "Spido",
+    "Difficult": false
+  },
+  {
+    "Name": "DiggoBlock",
+    "Rarity": "Eternal",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/05/tile_8_9.webp",
+    "SecondName": "Diggo",
+    "Difficult": false
+  },
+  {
+    "Name": "Tiramisubmarini",
+    "Rarity": "Eternal",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/01/Default2_9_3.webp",
+    "SecondName": "Tirami",
     "Difficult": false
   },
   {
@@ -1018,7 +1032,7 @@
   },
   {
     "Name": "Garbagzilla",
-    "Rarity": "Secret",
+    "Rarity": "Eternal",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_4_6-150x150.webp",
     "SecondName": "Garba",
     "Difficult": false
@@ -1031,6 +1045,13 @@
     "Difficult": false
   },
   {
+    "Name": "Capanna Distruttore",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_8_2.webp",
+    "SecondName": "Distrut",
+    "Difficult": false
+  },
+  {
     "Name": "Coccoblade",
     "Rarity": "Secret",
     "ImagePath": "https://fnjpnews.com/wp-content/uploads/2025/10/Default2_6_8-1.webp",
@@ -1039,9 +1060,16 @@
   },
   {
     "Name": "Cannone Maledettone",
-    "Rarity": "Secret",
+    "Rarity": "Eternal",
     "ImagePath": "https://github.com/Landmark1218/Trash/blob/main/057.png?raw=true",
-    "SecondName": "Maledet",
+    "SecondName": "Cannone",
+    "Difficult": false
+  },
+  {
+    "Name": "Il Maledettones",
+    "Rarity": "Eternal",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/05/Default3_8_5.webp",
+    "SecondName": "Il Male",
     "Difficult": false
   },
   {
@@ -1166,8 +1194,29 @@
   {
     "Name": "Tung Ballerina Sahur",
     "Rarity": "Secret",
-    "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Halloween2_8_6.webp",
-    "SecondName": "Tung Bal",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Halloween2_8_6.webp",
+    "SecondName": "Tung Ball",
+    "Difficult": false
+  },
+  {
+    "Name": "McPene Dougal",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_6.webp",
+    "SecondName": "McPene",
+    "Difficult": false
+  },
+  {
+    "Name": "Re Delle Carte",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_8_1.webp",
+    "SecondName": "Delle",
+    "Difficult": false
+  },
+  {
+    "Name": "Wolfito Micronodo",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/05/tile_8_8.webp",
+    "SecondName": "Wolfito",
     "Difficult": false
   },
   {
@@ -1175,6 +1224,34 @@
     "Rarity": "Secret",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/03/Default3_5_5.webp",
     "SecondName": "Kataking",
+    "Difficult": false
+  },
+  {
+    "Name": "Cobracadabra",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_7_9.webp",
+    "SecondName": "Cobra",
+    "Difficult": false
+  },
+  {
+    "Name": "Chickanini Bananini",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/05/tile_8_7.webp",
+    "SecondName": "Chickanini",
+    "Difficult": false
+  },
+  {
+    "Name": "Crocodila Bicicleteira",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_6_9.webp",
+    "SecondName": "Crocodila",
+    "Difficult": false
+  },
+  {
+    "Name": "Scarletbyte",
+    "Rarity": "Secret",
+    "ImagePath": "https://brainrot.fnjpnews.com/wp-content/uploads/2026/05/Default3_8_4.webp",
+    "SecondName": "Scarle",
     "Difficult": false
   },
   {
@@ -1214,7 +1291,7 @@
   },
   {
     "Name": "Fishini Mechinini",
-    "Rarity": "Admin",
+    "Rarity": "Eternal",
     "ImagePath": "http://brainrot.fnjpnews.com/wp-content/uploads/2026/04/Default3_6_6.webp",
     "SecondName": "Fishini Mech",
     "Difficult": false
